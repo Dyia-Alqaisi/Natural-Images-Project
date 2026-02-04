@@ -65,3 +65,12 @@ A deployment-ready script for inference.
 You can install dependencies via pip:
 ```bash
 pip install tensorflow pillow numpy matplotlib
+
+```
+## 📝 License
+
+This project code is open source under the **MIT License**.
+
+However, the **Natural Images Dataset** used in this project is subject to the **CC BY-NC-SA 4.0** license.
+* **Code:** Free to use for personal and commercial projects.
+* **Dataset:** Attribution required, Non-commercial use only, Share Alike.
