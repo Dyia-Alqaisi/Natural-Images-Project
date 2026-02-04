@@ -3,6 +3,7 @@
 This project builds an end-to-end image classification workflow for the **Natural Images dataset** (8 classes). It utilizes Transfer Learning with **MobileNetV2** to achieve high accuracy and includes a robust preprocessing pipeline to handle real-world image variances.
 
 * **Dataset Source:** [Natural Images Dataset on Kaggle](https://www.kaggle.com/datasets/prasunroy/natural-images/data)
+* **Project Documentation:** [📄 **Download Full Project Report (PDF)**](ProjectDocumentation.pdf)
 
 The 8 classes are:
 `airplane`, `car`, `cat`, `dog`, `flower`, `fruit`, `motorbike`, `person`
